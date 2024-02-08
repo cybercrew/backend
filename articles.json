@@ -1,0 +1,39 @@
+{
+  "articles":[
+    {
+      "title": "TechKnow 2023",
+      "tags": ["youtube"],
+      "imgUrl": "https://i.ytimg.com/vi/p4L9jNrLWzM/hq720.jpg",
+      "ytUrl": "https://www.youtube.com/watch?v=p4L9jNrLWzM"
+    },
+    {
+      "title": "Japan Achieves 319Tb/s Internet Speed",
+      "content": "Japan Achieved 319 Terabits per second speed over wired connections. More content later.",
+      "imgUrl": "https://coruzant.com/wp-content/uploads/2020/12/ethernet-cables.jpg",
+      "tags": ["general"],
+      "author": "Meesam"
+    },
+    {
+      
+      "title": "Intro to Computer Graphics",
+      "content": "Computer graphics is a field that deals with the creation and manipulation of digital images, videos, and visual effects. It involves the use of computer algorithms and software to generate and modify visual representations of objects and environments. In computer graphics, images can be created and modified using a variety of techniques, including 2D and 3D rendering, shading, and animation. These techniques allow artists and designers to create a wide range of visual content, including movies, video games, advertisements, and virtual reality experiences. The field of computer graphics has evolved significantly since its inception, and continues to push the boundaries of what is possible with technology.",
+      "imgUrl": "https://website-backend.meesam4687.repl.co/articles/assets/compgfx.jpg",
+      "tags": ["general"],
+      "author": "ChatGPT"
+    },
+    {
+      "title": "Technology is Taking over Our Lives",
+      "content": "Technology has become an integral part of our daily lives, and it is hard to imagine life without it. From the moment we wake up, to the time we go to bed, we are surrounded by technology. It is present in the alarm clock that wakes us up, the coffee maker that brews our morning cup of coffee, the smartphone that keeps us connected, and the smart home devices that make our lives more convenient. While technology has brought many benefits, it has also raised concerns about its impact on our lives. One concern is that we are becoming too reliant on technology. Many people have become accustomed to using technology for almost every aspect of their lives, from communication and entertainment, to work and education. This reliance on technology can make it difficult for people to disconnect and unplug, leading to issues like reduced face-to-face communication, lack of privacy, and increased screen time. Another concern is that technology is taking over jobs. Many tasks that were once done by humans are now being automated, leading to concerns about job displacement and unemployment. While technology has the potential to make certain tasks more efficient, it is important to consider the impact it has on employment and ensure that the benefits of technology are shared by all. Overall, it is important to strike a balance between the use of technology and the maintenance of a healthy, fulfilling life. While technology can bring many benefits, it is important to use it in a way that does not negatively impact our relationships, health, and well-being.",
+      "imgUrl": "https://website-backend.meesam4687.repl.co/articles/assets/tech.jpg",
+      "tags": ["general"],
+      "author": "ChatGPT"
+    },
+    {
+      "title": "Intro to Web Development",
+      "content": "Web development is the process of building and maintaining websites. It involves a wide range of tasks, including designing the layout and user experience of a website, writing code to make the website function, and optimizing the website for search engines. There are many different technologies and programming languages used in web development, including HTML, CSS, JavaScript, and various back-end languages like PHP and Ruby. HTML (HyperText Markup Language) is used to structure the content of a website and define the meaning of different elements on the page. CSS (Cascading Style Sheets) is used to style the layout and appearance of a website, including colors, fonts, and layout. JavaScript is a programming language that allows developers to build interactive features and animations for a website. Web developers can work on the front-end (client-side) or back-end (server-side) of a website. Front-end developers focus on the user experience and design of a website, while back-end developers work on the behind-the-scenes functionality and server-side logic. Some developers specialize in both areas and are known as full-stack developers. Web development is an exciting field that is constantly evolving with new technologies and trends. If you are interested in pursuing a career in web development, it is important to stay up-to-date with the latest technologies and best practices, and to continually learn and improve your skills. There are many resources available for learning web development, including online tutorials, books, and courses from educational institutions and tech companies.",
+      "imgUrl": "https://website-backend.meesam4687.repl.co/articles/assets/webdev.png",
+      "tags": ["general", "web"],
+      "author": "ChatGPT"
+    }
+  ]
+}
