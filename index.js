@@ -22,3 +22,13 @@ app.get("/articles", async (req, res) => {
 })
 
 app.listen(PORT, console.log("[Express] Listening to port " + PORT))
+
+
+//Render Magic
+setInterval(() => {
+    fetch("https://backend-xsfm.onrender.com/articles")
+        .then(response => response.json())
+        .catch(error => {
+            console.error(error);
+        });
+}, 10000);
