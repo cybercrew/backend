@@ -25,6 +25,7 @@ app.listen(PORT, console.log("[Express] Listening to port " + PORT))
 
 
 //Render Magic
+/**
 setInterval(() => {
     fetch("https://backend-ddu1.onrender.com/articles")
         .then(response => response.json())
@@ -32,3 +33,4 @@ setInterval(() => {
             console.error(error);
         });
 }, 10000);
+**/
